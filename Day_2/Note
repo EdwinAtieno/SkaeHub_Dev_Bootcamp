@@ -1,0 +1,14 @@
+Q2) Step 1:  Take the input from the user
+
+  Step 2:  Compute the square root of the given number using the math library
+
+  Step 3: Checking whether the  int(root + 0.5) ** 2 == number, if this evaluates to True then the number is a perfect square
+  
+  
+ Q3) steps:
+
+        1) Build a Number guessing game, in which the user selects a range.
+        2) Let’s say User selected a range, i.e., from A to B, where A and B belong to Integer.
+        3) Some random integer will be selected by the system and the user has to guess that integer in the minimum number of guesses
+        
+        
