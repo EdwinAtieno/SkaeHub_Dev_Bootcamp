@@ -4,7 +4,7 @@ INSTALL-
         3) Pandas
         
         
- Q1) Write a Python program to find the details of a given zip code using the Nominatim API and GeoPy package.
+ **Q1)** Write a Python program to find the details of a given zip code using the Nominatim API and GeoPy package.
     Steps and Algorithm:
               1) to read more about geopy- https://geopy.readthedocs.io/en/stable/#module-geopy.distance
               2) import Nominatim
