@@ -16,8 +16,8 @@ INSTALL-
  
  
  
- **
- Q2) Write a Python program to calculate the distance between Cairo and Nairobi City
+
+ **** Q2) Write a Python program to calculate the distance between Cairo and Nairobi City
     Steps and Algorithm**
                   1) to load cities dataset
                   2) to read more about geopy- https://geopy.readthedocs.io/en/stable/#module-geopy.distance
@@ -30,7 +30,7 @@ INSTALL-
                   9)
                   
                   
-** Q3) Write a Python function to get the city, state and country name of a specified latitude and longitude using Nominatim API and Geopy package.
+**** Q3) Write a Python function to get the city, state and country name of a specified latitude and longitude using Nominatim API and Geopy package.
           Steps and Algorithm:**
                       1) Import Nominatim
                       2) set user_agent- is an http request header that is sent with each request.
@@ -42,7 +42,7 @@ INSTALL-
                       8)
                       
                       
-** Q4) Write a Python program to search the country name from a given state name using the Nominatim API and GeoPy package
+**** Q4) Write a Python program to search the country name from a given state name using the Nominatim API and GeoPy package
          Steps and Algorithm:**
                       1) Import Nominatim
                       2) set user_agent- is an http request header that is sent with each request.
@@ -52,7 +52,7 @@ INSTALL-
                       
                       
                       
-** Q5) Write a Python program to generate an infinite cycle of elements from an iterable. PS: The iterable data type should be a list or a string or a dictionary, etc.
+**** Q5) Write a Python program to generate an infinite cycle of elements from an iterable. PS: The iterable data type should be a list or a string or a dictionary, etc.
          Steps and Algorithm:**
                       1) import iterating tool to help iterating
                       2) Create a function
@@ -66,7 +66,7 @@ INSTALL-
                       
                       
                       
-** Q6) Write a Python program to sort a list of dictionaries using Lambda.
+**** Q6) Write a Python program to sort a list of dictionaries using Lambda.
          Steps and Algorithm:**
                       1) create a list containing dictionaries
                       2) Print to confirm
@@ -75,7 +75,7 @@ INSTALL-
                       
                       
                       
-**Q7) Write a Python program to find the maximum and minimum values in a given list of tuples using a lambda function.
+****Q7) Write a Python program to find the maximum and minimum values in a given list of tuples using a lambda function.
         Steps and Algorithm:**
                       1) import Nominatim
                       2) set user_agent- is an http request header that is sent with each request.
