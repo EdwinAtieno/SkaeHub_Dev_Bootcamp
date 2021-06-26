@@ -77,11 +77,11 @@ INSTALL-
                       
 ****Q7) Write a Python program to find the maximum and minimum values in a given list of tuples using a lambda function.
         Steps and Algorithm:**
-                      1) import Nominatim
-                      2) set user_agent- is an http request header that is sent with each request.
-                      3) prompt user to enter the zipcode of the place
-                      4) use geolocator() and geocode() function and method to locate the country address using City name
-                      5) Use address method to map the name of country
+                      1) Create a function to select maximum and minimum
+                      2) Use max method to get the maximum and use lambda function to get value in the indicated index
+                      3) Use max method to get the minimum and use lambda function to get value in the indicated index
+                      4) input you values(tuples) in a list
+                      5) Call the function then pass the list in the function
                       
                       
                       
