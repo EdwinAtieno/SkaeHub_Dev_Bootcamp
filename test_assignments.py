@@ -63,14 +63,14 @@ def test_csv_dictionary():
 def test_empty():
     csv_dicts = csv_dict.empty('edd.csv')
     assert csv_dicts == False
-#
+# test to know if it exists
 def test_path():
     csv_dicts = csv_dict.path("edd.csv")
     assert csv_dicts == True
 
 
 # QUESTION NUMBER 5
-# test on a List
+# test on a List to check if it's a set
 def test_set():
     leap = duplicate.delete_redudancy([])
     assert leap == set([])
@@ -78,10 +78,10 @@ def test_set():
 # checks if an empty or
 
 def test_empty():
-    leap = duplicate.delete_redudancy([])
-    assert len(leap) == 0
+    men = duplicate.delete_redudancy([])
+    assert len(men) == 0
 
 # check if the type is set
 def test_type():
-    leap = duplicate.delete_redudancy([])
-    assert type(leap) == set
+    types = duplicate.delete_redudancy([])
+    assert type(types) == set
